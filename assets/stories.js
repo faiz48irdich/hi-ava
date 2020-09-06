@@ -1,6 +1,6 @@
 export default [
-  "Teks pertama",
-  "Teks kedua",
-  "Teks ke - n",
+  "happy birthday kesayanganku",
+  "panjang umur ya sayang",
+  "semoga diberi kesehatan terus",
   "Aku sayang kamu!"
 ];
